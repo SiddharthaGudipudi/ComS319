@@ -1,0 +1,12 @@
+id,title,price,description,category,image,rating
+1,Aloe,109.95,Discover the Power of Pure Aloe.,plants,http://127.0.0.1:4000/images/product-aloe.jpg,3.9
+2,Bromeliad,22.30,A touch of tropical elegance in a pot.,plants,http://127.0.0.1:4000/images/product-bromeliad.jpg,4.1
+3,Fiddle Leaf Fig,55.99,A green statement of style and sophistication.,plants,http://127.0.0.1:4000/images/product-fiddleleaffig.jpg,4.7
+4,Organic Ginger,15.99,"Grown in Carroll, IA.",produce,http://127.0.0.1:4000/images/product-ginger.jpg,2.1
+5,Money Tree,69.50,A symbol of good fortune and style.,plants,http://127.0.0.1:4000/images/product-moneytree.jpg,4.6
+6,Monstera Deliciosa,16.80,Elevate your indoor oasis.,plants,http://127.0.0.1:4000/images/product-monsteradeliciosa.jpg,3.9
+7,Handpicked Onion,9.99,"Grown in Ames, IA.",produce,http://127.0.0.1:4000/images/product-onion.jpg,3
+8,Palm,10.99,An enduring symbol of tranquility and natural beauty.,plants,http://127.0.0.1:4000/images/product-palm.jpg,1.9
+9,Snakeplant,10.64,"A hardy, sleek, and aerating addition.",plants,http://127.0.0.1:4000/images/product-snakeplant.jpg,3.3
+10,Heirloom Tomato,10.99,"Grown in Ankeny, IA.",produce,http://127.0.0.1:4000/images/product-tomato.jpg,2.9
+11,White Bird of Paradise,10.99,Adds a touch of tropical luxury to your surroundings.,plants,http://127.0.0.1:4000/images/product-whitebirdofparadise.jpg,4.8

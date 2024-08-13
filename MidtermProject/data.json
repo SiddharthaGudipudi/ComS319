@@ -1,0 +1,59 @@
+{
+    "Home": {},
+    "About": {
+        "Name": [],
+        "Position": [],
+        "Description": [],
+        "PhotoUrl": {
+            "Isaac": "",
+            "Sid": "",
+            "Messi": ""
+        }
+    },
+    "Learn": [
+        {
+            "Name": "Watering.",
+            "Description": "Just add water. There is a sweet spot between too little water and too much. You may have heard the myth that succulents are good beginner plants because watering is easy. This is false. Watering of succulents and other plants must be intentional--too much water is often worse than too little.",
+            "TimeEst": "5 min",
+            "Img": "images/lily.jpg"
+        },
+        {
+            "Name": "Fertilizer.",
+            "Description": "Feed me. Every plant needs food. There is a misconception that plants get their bio mass from the soil--most of it comes from the CO2 in the air. Despite this, feeding your plant with fertilizer once a year is usually a safe bet. Do some research before as always.",
+            "TimeEst": "10 min",
+            "Img": "images/potato.jpg"
+        },
+        {
+            "Name": "Sun.",
+            "Description": "You are my sunshine. Nothing really beats the sun. It is what powers everything about our planet. Give it your plant as much as it can take, but be careful to ween it of in the winter. Too much can lead to burning and plant death.",
+            "TimeEst": "0 min",
+            "Img": "images/pineapple.jpg"
+        }
+    ],
+    "Products": [
+        {
+            "Name": "Sunflower",
+            "Description": "So vivacious that it will grow itself to death.",
+            "Price": "5 ea.",
+            "Img": "images/sunflower.jpg"
+        },
+        {
+            "Name": "Orchid",
+            "Description": "Thrives in the dark rainforest.",
+            "Price": "12 ea.",
+            "Img": "images/orchid.jpg"
+        },
+        {
+            "Name": "Philodendron",
+            "Description": "Philo - 'love' dendron = 'tree'",
+            "Price": "25 ea.",
+            "Img": "images/philodendron.jpg"
+        },
+        {
+            "Name": "Succulent",
+            "Description": "This one glows in the dark.",
+            "Price": "15 ea.",
+            "Img": "images/succulent.jpg"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "src": "SGBat.png",
+      "productName": "SG Cricket bat",
+      "price": 250.00,
+      "text": "Elevate your game with our SG Cricket Bat. Precision-crafted for power and control. Experience unmatched performance with every shot. Own the crease and conquer the field."
+    },
+    {
+      "src": "MRFBat.png",
+      "productName": "MRF Cricket bat",
+      "price": 275.00,
+      "text": "Unleash your potential with the MRF Cricket Bat. Superior craftsmanship for maximum impact. Dominate the game with unmatched precision and power. Elevate your cricket experience."
+    },
+    {
+      "src": "spartan.png",
+      "productName": "Spartan Cricket bat",
+      "price": 200.00,
+      "text": "Elevate your game with the Spartan Cricket Bat. A perfect blend of power and finesse. Conquer the pitch with style and precision. Your key to cricket excellence and high scores."
+    },
+    {
+      "src": "SSBat.png",
+      "productName": "SS Cricket bat",
+      "price": 210.00,
+      "text": "Experience excellence with the SS Cricket Bat. Precision-engineered for unparalleled performance. Dominate the field with style and power. Elevate your cricket journey to new heights."
+    },
+    {
+      "src": "kookaburra.png",
+      "productName": "Kookaburra Cricket bat",
+      "price": 200.00,
+      "text": "Achieve greatness with the Kookaburra Cricket Bat. Expertly crafted for power and precision. Rule the pitch with finesse and style. Your key to cricket mastery and good experience wgile scoring."
+    },
+    {
+      "src": "CEATBat.png",
+      "productName": "CEAT Cricket bat",
+      "price": 250.00,
+      "text": "Elevate your game with the CEAT Cricket Bat. Masterfully designed for unmatched performance. Conquer the field with precision and power. Your path to cricket glory begins here."
+    }
+  ]
